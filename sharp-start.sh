@@ -1,0 +1,1 @@
+docker run --link some-mysql:mysql --link some-rabbit:rabbit --rm -it sharp-start:latest

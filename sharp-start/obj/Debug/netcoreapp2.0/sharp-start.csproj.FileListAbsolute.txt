@@ -1,0 +1,10 @@
+/home/j0hnny/Projects/sharp-start/bin/Debug/netcoreapp2.0/sharp-start.deps.json
+/home/j0hnny/Projects/sharp-start/bin/Debug/netcoreapp2.0/sharp-start.runtimeconfig.json
+/home/j0hnny/Projects/sharp-start/bin/Debug/netcoreapp2.0/sharp-start.runtimeconfig.dev.json
+/home/j0hnny/Projects/sharp-start/bin/Debug/netcoreapp2.0/sharp-start.dll
+/home/j0hnny/Projects/sharp-start/bin/Debug/netcoreapp2.0/sharp-start.pdb
+/home/j0hnny/Projects/sharp-start/obj/Debug/netcoreapp2.0/sharp-start.csproj.CoreCompileInputs.cache
+/home/j0hnny/Projects/sharp-start/obj/Debug/netcoreapp2.0/sharp-start.AssemblyInfoInputs.cache
+/home/j0hnny/Projects/sharp-start/obj/Debug/netcoreapp2.0/sharp-start.AssemblyInfo.cs
+/home/j0hnny/Projects/sharp-start/obj/Debug/netcoreapp2.0/sharp-start.dll
+/home/j0hnny/Projects/sharp-start/obj/Debug/netcoreapp2.0/sharp-start.pdb
